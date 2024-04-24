@@ -1,0 +1,39 @@
+{
+    "Complaints": [
+        {
+            "Id": 1,
+            "Name": "Burger Corner-French Fries",
+            "Complaint": "Food arrived late"
+        },
+        {
+            "Id": 2,
+            "Name": "Pizza Palace-Pizza",
+            "Complaint": "Pizza was cold upon delivery"
+        },
+        {
+            "Id": 3,
+            "Name": "Taco Express-Tacos",
+            "Complaint": "Missing toppings in tacos"
+        },
+        {
+            "Id": 4,
+            "Name": "Sushi Savor-Sushi Rolls",
+            "Complaint": "Sushi rolls were poorly wrapped"
+        },
+        {
+            "Id": 5,
+            "Name": "Pasta Paradise-Pasta",
+            "Complaint": "Pasta was overcooked and mushy"
+        },
+        {
+            "Id": 6,
+            "Name": "BBQ Bistro-Meat",
+            "Complaint": "Meat was burnt and dry"
+        },
+        {
+            "Id": 7,
+            "Name": "Dessert Delights-Dessert",
+            "Complaint": "Dessert was stale and tasted old"
+        }
+    ]
+}

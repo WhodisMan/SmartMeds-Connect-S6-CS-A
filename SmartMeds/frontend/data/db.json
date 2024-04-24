@@ -1,0 +1,23 @@
+{
+    "userdata":[
+        {
+            "email":"jaisontpoulose@gmail.com",
+            "firstname": "jaison",
+            "lastname": "Poulose",
+            "password": "123456789j"
+        },
+        {
+            "email":"jaisontpoulose@gmail.com",
+            "firstname": "jtp",
+            "lastname": "p",
+            "password": "123456789"
+        },
+        {
+            "email":"jaisontpoulose@gmail.com",
+            "firstname": "jai",
+            "lastname": "son",
+            "password": "4524"
+        }
+
+    ]
+}

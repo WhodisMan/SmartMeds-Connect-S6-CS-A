@@ -1,0 +1,13 @@
+.formlbg {
+    background-image: url('../Assets/login2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.form-group label{
+    color: #000000
+    
+
+}
+  

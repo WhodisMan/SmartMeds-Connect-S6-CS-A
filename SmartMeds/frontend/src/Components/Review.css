@@ -1,0 +1,18 @@
+.rate-card{
+    background-color: floralwhite;
+    
+}
+.review-card{
+    border-radius: 2rem;
+    background-color: floralwhite;
+   height: 7rem;
+}
+.write-review-card{
+    border-radius: 2rem;
+    background-color: floralwhite;
+    
+}
+.write-review textarea {
+    width: 100%;
+    box-sizing: border-box;
+  }

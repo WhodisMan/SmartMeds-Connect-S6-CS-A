@@ -1,0 +1,29 @@
+[
+    {
+        "model": "FoodApp.User",
+        "fields": {
+            "email": "johndoe@example.com",
+            "password": "mysecurepassword",
+            "first_name": "John",
+            "last_name": "Doe"
+        }
+    },
+    {
+        "model": "FoodApp.User",
+        "fields": {
+            "email": "janedoe@example.com",
+            "password": "anothersecurepassword",
+            "first_name": "Jane",
+            "last_name": "Doe"
+        }
+    },
+    {
+        "model": "FoodApp.User",
+        "fields": {
+            "email": "janedoe@example.com",
+            "password": "anothersecurepassword",
+            "first_name": "Jane",
+            "last_name": "Doe"
+        }
+    }
+]

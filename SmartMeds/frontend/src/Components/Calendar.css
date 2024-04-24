@@ -1,0 +1,40 @@
+.calendar-container {
+    margin-top: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .calendar-header {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .calendar-days {
+    display: flex;
+    gap: 10px;
+  }
+  
+  .calendar-day {
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .default-day {
+    background-color: #ccc;  /* Grey for default days */
+  }
+  
+  .correct-day {
+    background-color: #8aff8a;  /* Green for correct medication days */
+  }
+  
+  .missed-day {
+    background-color: #ffcc80;  /* Orange for missed medication days */
+  }
+  

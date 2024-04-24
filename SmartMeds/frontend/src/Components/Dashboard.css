@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+}
+.bg-img{
+   background-image:url('../Assets/dashboard.jpg') ;
+   background-size:cover;
+   background-repeat: no-repeat;
+   width: 100vw;
+   height: 30vh;
+}
+.fg-content{
+  position: absolute;
+  top:2rem;
+}
+.fg-content h1{
+    color:black;
+    font-family: 'Poppins', cursive;
+    font-size:5rem;
+    text-shadow: 3px 3px 5px rgba(0, 0, 0, 0.777);
+    
+}
+
+@media (max-width: 1024px) {
+  .bg-img h1 {
+    font-size: 7rem;
+  }
+}
+@media (max-width: 768px) {
+  .bg-img h1 {
+    font-size: 4rem;
+  }
+}
+
+@media (max-width: 576px) {
+  .bg-img h1 {
+    font-size: 3rem;
+    top: 60%;
+  }
+}

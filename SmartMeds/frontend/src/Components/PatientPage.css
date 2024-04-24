@@ -1,0 +1,95 @@
+/* PatientPage.css */
+
+.patient-page {
+    font-family: Arial, sans-serif;
+  }
+  
+  .patient-content {
+    padding: 20px;
+  }
+  
+  .patient-details {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .new-consultation-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  .new-consultation-button:hover {
+    background-color: #45a049;
+  }
+  
+  .consultation-form {
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    padding: 20px;
+  }
+  
+  .consultation-form h2 {
+    margin-bottom: 10px;
+  }
+  
+  .consultation-form label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .consultation-form input[type="text"],
+  .consultation-form textarea {
+    width: calc(100% - 10px); /* Adjust the width to leave space for padding */
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .consultation-form button[type="submit"] {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .consultation-form button[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  .table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 10px; /* Adjust this value as needed */
+  }
+  
+  .table th,
+  .table td {
+    padding: 8px;
+  }
+  
+  .table th {
+    background-color: #f2f2f2;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .table tr:hover {
+    background-color: #ddd;
+  }
+  

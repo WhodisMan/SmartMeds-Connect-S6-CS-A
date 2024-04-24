@@ -1,0 +1,68 @@
+[
+    {
+        "id": 1,
+        "restaurant": "Burger Corner",
+        "price": "100",
+        "food": "French Fries ",
+        "rating": 4.5,
+        "linkImg": "https://www.thestatesman.com/wp-content/uploads/2019/05/french-fries.jpg"
+    },
+    {
+        "id": 2,
+        "restaurant": "Sweet Tooth",
+        "price": "900",
+        "food": "Red Velvet Cake",
+        "rating": 4.9,
+        "linkImg": "https://glutenfreecuppatea.co.uk/wp-content/uploads/2019/11/gluten-free-red-velvet-cake-recipe-featured.jpg"
+    },
+    {
+        "id": 3,
+        "restaurant": "Burger Corner",
+        "price": "150",
+        "food": "Cheese Burger",
+        "rating": 4.5,
+        "linkImg": "https://i0.wp.com/i.redd.it/lzh3ysy58np21.jpg?ssl=1"
+    },
+    {
+        "id": 4,
+        "restaurant": "Italy's Best",
+        "price": "700",
+        "food": "3 topping Pizza",
+        "rating": 3.7 ,
+        "linkImg": "https://images2.fanpop.com/images/photos/7300000/Slice-of-Pizza-pizza-7383219-1600-1200.jpg"
+    },
+    {
+        "id": 5,
+        "restaurant": "Hotel Aroma",
+        "price": "130",
+        "food": "Vegetable Fried Rice",
+        "rating": 3.4,
+        "linkImg": "https://www.shanmugas.com/Content/upload/veg%20fried%20rice%20.jpg"
+    },
+    {
+        "id": 6,
+        "restaurant": "Sweet Tooth",
+        "price": "1500",
+        "food": "Chocolate Caramel Cake",
+        "rating": 4.9,
+        "linkImg": "https://cdn.shopify.com/s/files/1/0034/7550/5225/products/01292020_Pretzel-MenuChange0338-RT_c4bb5745-6348-4069-9688-473fd20a3d0e_800x.jpg?v=1581623513"
+    },
+    {
+        "id": 7,
+        "restaurant": "Italy's Best",
+        "price": "200",
+        "food": "Spagetti",
+        "rating": 3.7,
+        "linkImg":
+          "https://www.hintofhealthy.com/wp-content/uploads/2020/07/Healthy-Spaghetti-Sauce-1.jpg"
+      },
+      {
+        "id": 8,
+        "restaurant": "Spice King",
+        "price": "120",
+        "food": "Chicken Biriyani",
+        "rating": 4.3, 
+        "linkImg":
+          "https://media.istockphoto.com/id/1345624336/photo/chicken-biriyani.jpg?b=1&s=170667a&w=0&k=20&c=cL2fbP4UF9nbp6BmCP3B0wm_XSXUiJ1aGtiotSyiFg4="
+      }
+    ]

@@ -1,0 +1,22 @@
+[
+    {
+        "model": "FoodApp.Restaurant",
+      
+      "fields": {
+    "vendor_id": 4,
+    "authentication_id": 118597,
+    "vendor_category_en": "Restaurants",
+    "vendor_category_id": 2,
+    "delivery_charge": 0,
+    "serving_distance": 6,
+    "OpeningTime": "11:00AM-11:30PM",
+    "prepration_time": 15,
+    "discount_percentage": 0,
+    "vendor_rating": 4.4,
+    "vendor_tag": "2,4,5,8,91,22,12,24,16,23",
+    "vendor_tag_name": "Arabic,Breakfast,Burgers,Desserts,Free Delivery,Grills,Lebanese,Salads,Sandwiches,Shawarma",
+    "created_at": "2018-01-30 14:42:04",
+    "vendor_name": "Flaming Bison"
+  }
+}
+]

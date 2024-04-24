@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "restaurant": "Burger Corner",
+        "price": "100",
+        "food": "French Fries ",
+        "rating": 4.5,
+        "linkImg": "https://www.thestatesman.com/wp-content/uploads/2019/05/french-fries.jpg"
+    }
+]

@@ -1,0 +1,119 @@
+.restaurant-img{
+    width: 50vw;
+    height: 70vh;
+    object-fit:fill;
+}
+.restaurant-name{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    color:coral;
+}
+.restaurant-details{ 
+
+    font-family: 'Poppins', sans-serif;
+}
+.restaurant-details { 
+
+    font-size: 1.2rem;
+}
+
+.restaurant-btn{
+    background-color: gray;
+    color:floralwhite;
+}
+
+.restaurant-btn:hover {
+    background-color: floralwhite; 
+    color: gray; 
+    border: 2px solid gray;
+  }
+.center-button{
+    height: fit-content;
+    width: fit-content;
+}
+.scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: coral;
+    color: floralwhite;
+    padding: 10px 15px;
+    border-radius: 5px;
+    
+  }
+  
+.add-sub-btn{
+    font-size: 2rem;
+    border-radius: 3rem;
+    height: 3rem;
+    width: 3rem;
+}
+
+.indicator-circle {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 5px;
+    position: relative;
+  }
+  
+  .circle-green {
+    background-color: green;
+  }
+  
+  .circle-yellow {
+    background-color: orange;
+  }
+  
+  .circle-red {
+    background-color: red;
+  }
+  
+  .circle-default {
+    background-color: gray;
+  }
+  
+  .status-tooltip {
+    position: absolute;
+    left: 100%;
+    right: auto; 
+    transform: translateX(10px); 
+    background-color:white;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: 700;
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-top: 0;
+    white-space: nowrap;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.3s ease;
+  }
+  
+.circle-green .status-tooltip {
+  background-color: green;
+  color: white;
+}
+
+.circle-yellow .status-tooltip {
+  background-color: orange;
+  color: white;
+}
+
+.circle-red .status-tooltip {
+  background-color: red;
+  color: white;
+}
+
+.circle-default .status-tooltip {
+  background-color: white;
+  color: white;
+}
+  .indicator-circle:hover .status-tooltip {
+    opacity: 1;
+    pointer-events: auto;
+  }
+  

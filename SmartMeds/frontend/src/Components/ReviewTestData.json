@@ -1,0 +1,67 @@
+{
+    "Reviews":{
+            "Burger Corner":[
+            {   "Id":1,
+                "Name":"RandomGuy777",
+                "Rating":4,
+                "Review":"It was pretty good"
+            },
+            {
+                "Id":2,
+                "Name":"RandomGuy123",
+                "Rating":5,
+                "Review":"Not bad"
+            },
+            {
+                "Id":3,
+                "Name":"RandomGuy795",
+                "Rating":4,
+                "Review":"Amazing!!!!!!!!"
+            },
+            {
+                "Id":4,
+                "Name":"RandomGuy474",
+                "Rating":1,
+                "Review":"horrible."
+            },
+            {
+                "Id":5,
+                "Name":"RandomGuy932",
+                "Rating":1,
+                "Review":"my disappointment is immeasurable and my day is ruined"
+            }
+        ],
+        "Sweet Tooth":[
+            {   "Id":1,
+                "Name":"RandomGuy777",
+                "Rating":4,
+                "Review":"It was pretty good"
+            },
+            {
+                "Id":2,
+                "Name":"RandomGuy123",
+                "Rating":5,
+                "Review":"Not bad"
+            },
+            {
+                "Id":3,
+                "Name":"RandomGuy795",
+                "Rating":4,
+                "Review":"Amazing!!!!!!!!"
+            },
+            {
+                "Id":4,
+                "Name":"RandomGuy474",
+                "Rating":1,
+                "Review":"horrible."
+            },
+            {
+                "Id":5,
+                "Name":"RandomGuy932",
+                "Rating":1,
+                "Review":"my disappointment is immeasurable and my day is ruined"
+            }
+        ]
+        
+    }
+}

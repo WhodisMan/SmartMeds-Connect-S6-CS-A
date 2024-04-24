@@ -1,0 +1,23 @@
+[
+    {
+    "model": "FoodApp.User",
+    "fields": {
+    "email": "",
+    "password": "mysecurepassword"
+    }
+    },
+    {
+    "model": "FoodApp.User",
+    "fields": {
+    "email": "janedoe@example.com",
+    "password": "anothersecurepassword"
+    }
+    },
+    {
+    "model": "FoodApp.User",
+    "fields": {
+    "email": "janedoe@example.com",
+    "password": "anothersecurepassword"
+    }
+    }
+    ]
