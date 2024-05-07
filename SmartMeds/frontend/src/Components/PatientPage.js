@@ -111,7 +111,7 @@ const PatientPage = () => {
           {/* Add more patient details here */}
           
         </div>
-        <button onClick={() => setShowForm(true)}>New Consultation</button>
+        <button onClick={() => setShowForm(true)} class="btn new-consultation-button btn-lg">New Consultation</button>
       </div>
       {/* Form for new consultation */}
       
@@ -139,10 +139,10 @@ const PatientPage = () => {
                 {formData.medicines.map((medicine, index) => (
                   <tr key={index}>
                     <td>
-                      <select value={medicine.medName} onChange={(e) => handleMedicineChange(index, 'medName', e.target.value)}>
-                        <option value="">Select Medicine</option>
+                      <select value={medicine.medName} onChange={(e) => handleMedicineChange(index, 'medName', e.target.value)} > 
+                        <option value="" >Select Medicine</option>
                         {medicineOptions.map((option, idx) => (
-                          <option key={idx} value={option}>
+                          <option key={idx} value={option} >
                             {option}
                           </option>
                         ))}
@@ -170,13 +170,13 @@ const PatientPage = () => {
                       </select>
                     </td>
                     <td>
-                      <button type="button" onClick={() => handleRemoveMedicine(index)}>Remove</button>
+                      <button type="button" onClick={() => handleRemoveMedicine(index)} class="btn remove-button btn-lg" >Remove</button>
                     </td>
                   </tr>
                 ))}
               </tbody>
             </table>
-            <button type="button" onClick={handleAddMedicine}>Add Medicine</button>
+            <button type="button" onClick={handleAddMedicine}class=" add-medicine-button " >Add Medicine</button>
             <button type="submit">Submit</button>
           </form>
         </div>
