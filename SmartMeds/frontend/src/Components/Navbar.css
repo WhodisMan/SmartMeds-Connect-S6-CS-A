@@ -54,16 +54,22 @@
     background-color: lightblue;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     z-index: 1;
+
   }
   
   .dropdown-menu li {
     list-style: none;
     padding: 5px 0;
     color:#1c4ee6;
+    text-align: center;
   }
   
   .dropdown-menu li:hover {
-    background-color: #f1f1f1;
+
+    right: 25px;
+    width: 200px;
+    background-color: rgb(162, 196, 207);
+    z-index: 1;
   }
 
   .profile-picture:hover{
