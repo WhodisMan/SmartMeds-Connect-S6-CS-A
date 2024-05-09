@@ -14,7 +14,7 @@ const PatientPage = () => {
     date: new Date().toISOString().split('T')[0],
     medicines: [],
   });
-  const [medicineOptions, setMedicineOptions] = useState([]);
+  const [medicineOptions, setMedicineOptions] = useState(["pill1","pill2"]);
   const quantityOptions = Array.from({ length: 30 }, (_, i) => i + 1);
   const timeOptions = [];
   for (let hour = 6; hour <= 22; hour++) {
